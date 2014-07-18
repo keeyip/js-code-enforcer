@@ -1,0 +1,24 @@
+{
+  "name": "js-code-enforcer",
+  "version": "0.0.0",
+  "description": "js-code-enforcer ================",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/keeyip/js-code-enforcer"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/keeyip/js-code-enforcer/issues"
+  },
+  "homepage": "https://github.com/keeyip/js-code-enforcer",
+  "dependencies": {
+    "estraverse": "~1.5.1",
+    "underscore": "~1.6.0",
+    "esprima": "~1.2.2"
+  }
+}
